@@ -1,4 +1,4 @@
-# shufflesongs
+# Shuffle Songs
 
 Exercício para mostrar uma lista de artistas em uma tabela.
 
